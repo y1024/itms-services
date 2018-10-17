@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://raw.githubusercontent.com/y1024/itms-services/master/chat/EChat.ipa</string>
+     <string>http://p2qve0o3j.bkt.clouddn.com/EChat.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
